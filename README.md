@@ -4,3 +4,7 @@
 •	Implemented multiple sorting algorithms: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort<br />
 
 ![](SortingVisualizer.png)
+
+**Merge Sort:-**
+
+![](merge_sort.gif)
