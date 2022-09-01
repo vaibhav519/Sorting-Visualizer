@@ -12,3 +12,8 @@
 **Quick Sort:-**
 
 ![](quick_sort.gif)
+
+
+**Bubble Sort:-**
+
+![](Bubble_sort.gif)
