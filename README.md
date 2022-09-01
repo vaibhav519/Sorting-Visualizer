@@ -16,4 +16,4 @@
 
 **Bubble Sort:-**
 
-![](Bubble_sort.gif)
+![](bubble_sort.gif)
