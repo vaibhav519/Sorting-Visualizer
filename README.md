@@ -8,3 +8,7 @@
 **Merge Sort:-**
 
 ![](merge_sort.gif)
+
+**Quick Sort:-**
+
+![](quick_sort.gif)
